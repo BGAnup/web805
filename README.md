@@ -1,2 +1,2 @@
 # web805
-web805/neural network
+web805/machine learning projects
